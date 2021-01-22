@@ -9,21 +9,14 @@
 
 # Código fonte 
 
-/*Square Cards and Portrait Cards*/
-#loginPage .squareCard {
-  width: 50% !important;
-}
-.layout-mobile .portraitCard {
-  width: 50%;
-}
-@media all and (min-width: 32em) and (max-width: 100em){
-  .layout-mobile .portraitCard {
-    width: 50%;
+  div#itemBackdrop{
+    background-size: 103%;
+    background-position: bottom 90% right 0%!important;
+    height: 50%!important;
+    z-index: 0 !important;
   }
-}
-.emby-input:focus, .emby-textarea:focus {
-    border-color: #09aae5;
-}
 
-![img1]
+
+# ScreenShots
+
 
