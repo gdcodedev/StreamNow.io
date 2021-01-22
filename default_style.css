@@ -48,11 +48,11 @@ fieldset.verticalSection.verticalSection-extrabottompadding {
 }
 /*Theming video page*/
 .videoOsdBottom {
-  background: linear-gradient(to top, black 20%, transparent);
+  background: linear-gradient(to top, black 10%, transparent);
   padding-top: 10em;
 }
 .osdHeader {
-  background: linear-gradient(to bottom, black 20%, transparent) !important;
+  background: linear-gradient(to bottom, black 10%, transparent) !important;
 }
 .videoOsdBottom .buttons {
   color: #09aae5;
