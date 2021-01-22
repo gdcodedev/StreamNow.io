@@ -18,5 +18,7 @@
 
 
 # ScreenShots
+![layoutzoneplay](https://user-images.githubusercontent.com/65917790/105441980-695c7600-5c48-11eb-913d-114ee03eb9c0.png)
+![ZonePlaybyFlix](https://user-images.githubusercontent.com/65917790/105441984-6a8da300-5c48-11eb-86b5-ab473d1cb970.png)
 
 
