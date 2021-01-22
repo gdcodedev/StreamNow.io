@@ -355,7 +355,7 @@ div#itemBackdrop {
 }
 /*Variables*/
 :root {
-  --deftraback: rgba(229, 9, 20, .2) !important;
+  --deftraback: rgba(0, 164, 220, 0.2) !important;
 }
 :root {
   --rounding: 5px;
