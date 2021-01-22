@@ -423,7 +423,7 @@ video:cue {
   text-shadow: rgba(0, 0, 0, 1) 0em 0em .2em !important;
 }
 
-/*Rounded corners on pretty much everything-Source Monochromic*/
+/*Rounded corners on pretty much everything-Source */
 .formDialogHeader {
   border-top-left-radius: var(--rounding);
   border-top-right-radius: var(--rounding);
@@ -699,7 +699,7 @@ h2 {
 }
 .mainDrawer {
   box-shadow: none !important;
-  background: linear-gradient(90deg, black, transparent);
+  background: linear-gradient(30deg, black, transparent);
 }
 .navMenuOption {
   border-right-color: rgba(0,0,0,0);
