@@ -668,10 +668,7 @@ h2 {
   background:none;
   background-color:rgba(0, 0, 0, 0);
 }
-.skinHeader.focuscontainer-x.skinHeader-withBackground.skinHeader-blurred.noHomeButtonHeader {
-  background:none;
-  background-color:rgba(0, 0, 0, 0);
-}
+
 .playedIndicator {
   background: #09aae5;
 }
