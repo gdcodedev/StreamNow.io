@@ -699,7 +699,7 @@ h2 {
 }
 .mainDrawer {
   box-shadow: none !important;
-  background: linear-gradient(30deg, black, transparent);
+  background: linear-gradient(90deg, black, transparent);
 }
 .navMenuOption {
   border-right-color: rgba(0,0,0,0);
