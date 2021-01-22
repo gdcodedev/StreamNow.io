@@ -751,7 +751,22 @@ h2 {
     margin: 0;
   }
 }
-
+/* My Media Styling */
+.section0 button.itemAction.textActionButton {
+  height: 3.5em;
+  background: rgba(0, 0, 0, 0);
+  border-radius:  var(--rounding);
+}
+.section0 .overflowBackdropCard,
+.section0 .overflowSmallBackdropCard {
+  max-width: 90vw;
+}
+.section0 .emby-scroller {
+  margin-right: 0;
+}
+.section0 .itemsContainer {
+  flex-wrap: wrap;
+}
 
 @media (max-width: 1px) and (orientation: landscape){
   .section0 {
@@ -762,24 +777,6 @@ h2 {
   padding-top: 60px !important;
 }
 
-@media (max-width: 1px){
-  .section0 {
-    display: none;
-  }
-}
-.section0 .sectionTitle {
-  padding-top: 60px !important;
-}
-.raised.homeLibraryButton:hover {
-  transition: filter 1s;
-}
-.raised.homeLibraryButton {
-  transition: filter 1s;
-}
-.homeLibraryButton {
-  min-width: 12em;
-  margin: 0.4em;
-}
 
 /*Theming for the dasboard*/
 .paperList, .visualCardBox {
