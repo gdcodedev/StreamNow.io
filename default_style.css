@@ -629,7 +629,7 @@ h2 {
 
 /*Blur backdrops, feel free to edit the intensity of the filter values*/
 .backdropImage {
-  filter: blur(50px) saturate(0%) contrast(130%) brightness(45%);
+  filter: blur(50px) saturate(155%) contrast(130%) brightness(45%);
 }
 .backgroundContainer.withBackdrop {
   background-color: rgba(0,0,0,0);
