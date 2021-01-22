@@ -514,7 +514,7 @@ div[data-role="controlgroup"] a[data-role="button"]:last-child {
 /*Hover items*/
 .emby-input, .emby-textarea {
   color: inherit;
-  border: .07em solid #e50914;
+  border: .07em solid #09aae5;
   border-radius:  var(--rounding);
   box-shadow: 0 0 8px 0px black !important;
   background: rgba(0,0,0,0.2) !important;
@@ -523,7 +523,7 @@ div[data-role="controlgroup"] a[data-role="button"]:last-child {
   text-shadow: 0 0 5px black;
 }
 .emby-select-withcolor  {
-  border: .07em solid #e50914;
+  border: .07em solid #09aae5;
 }
 .playedIndicator,
 .countIndicator {
@@ -543,7 +543,7 @@ div[data-role="controlgroup"] a[data-role="button"]:last-child {
   transform: scale(1.087);
 }
 .paper-icon-button-light:hover:not(:disabled) {
-  color: #e50914;
+  color: #09aae5;
   background-color: #2020208c;
   box-shadow: 0 0 15px -2px black;
 }
@@ -554,14 +554,14 @@ div[data-role="controlgroup"] a[data-role="button"]:last-child {
   background: rgba(0,0,0,0.4) !important;
 }
 .raised {
-  background:#e50914 !important;
+  background:#09aae5 !important;
   border-radius: var(--rounding) !important;
 }
 .navMenuOption-selected {
-  background: #e50914 !important;
+  background: #09aae5 !important;
 }
 .button-flat:hover {
-  color: #e50914;
+  color: #09aae5;
   transform: scale(1.5);
 }
 .listItem.listItem-border:hover {
@@ -570,7 +570,7 @@ div[data-role="controlgroup"] a[data-role="button"]:last-child {
 }
 .listItem.listItem-border {
   transition: border-color .2s, background .2s;
-  border-color: #e50914 !important;
+  border-color: #09aae5 !important;
 }
 div#divRunningTasks:hover {
   transform: scale(1.1);
@@ -808,13 +808,13 @@ h2 {
   background-color: #09aae5 !important;
 }
 .listItem-border {
-  border-color: #e50914 !important;
+  border-color: #09aae5 !important;
 }
 .backgroundContainer {
   background-color: #101010;
 }
 .raised {
-  background: #e50914;
+  background: #09aae5;
 }
 .headerButton.headerButtonRight.paper-icon-button-light.headerUserButtonRound {
   border-radius: var(--rounding) !important;
