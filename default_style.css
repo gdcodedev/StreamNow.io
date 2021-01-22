@@ -657,11 +657,11 @@ h2 {
 }
 .dialog{
   background-color: rgba(0, 0, 0, 0.4);
-  backdrop-filter: blur(60px) !important;
-  -webkit-backdrop-filter: blur(60px) !important;
-  -moz-backdrop-filter: blur (60px) !important;
-  -o-backdrop-filter: blur(60px) !important;
-  box-shadow: 0 0 20px 4px black;
+  backdrop-filter: blur(0px) !important;
+  -webkit-backdrop-filter: blur(0px) !important;
+  -moz-backdrop-filter: blur (0px) !important;
+  -o-backdrop-filter: blur(0px) !important;
+  box-shadow: 0 0 0px 4px black;
 }
 /* Top menu transparency */
 .skinHeader.focuscontainer-x.skinHeader-withBackground.skinHeader-blurred {
