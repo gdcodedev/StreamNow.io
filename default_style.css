@@ -804,9 +804,7 @@ h2 {
   .osdHeader {
     background: rgba(0,0,0,0.95) !important;
   }
-  .skinHeader.focuscontainer-x.skinHeader-withBackground.skinHeader-blurred {
-    background-color: rgba(0, 0, 0, 0);
-  }
+
   .tmla-mask {
     background-color: rgba(0,0,0,0.1);
   }
