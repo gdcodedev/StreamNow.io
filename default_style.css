@@ -761,12 +761,7 @@ h2 {
 .section0 .overflowSmallBackdropCard {
   max-width: 90vw;
 }
-.section0 .emby-scroller {
-  margin-right: 0;
-}
-.section0 .itemsContainer {
-  flex-wrap: wrap;
-}
+
 
 @media (max-width: 1px) and (orientation: landscape){
   .section0 {
