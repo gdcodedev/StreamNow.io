@@ -18,6 +18,9 @@
     z-index: 0 !important;
   }
 ```
+# Install
+
+<div class="highlight highlight-source-css"><pre><span class="pl-k">@import</span> <span class="pl-en">url</span>(<span class="pl-s">"https://gdcodedev.github.io/ZonePlayDefaultCss.io/default_style.css"</span>);</pre></div>
 
 # ScreenShots
 
