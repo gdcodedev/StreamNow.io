@@ -3,6 +3,7 @@
 - [x] Adicionando novo layout de login
 - [x] Modificando cores dos botões
 - [x] Configurando cores menubar
+- [x] Subtitle Crunchyroll
 
 # Base do projeto no servidor Jellyfin
 
