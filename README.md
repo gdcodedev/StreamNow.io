@@ -25,8 +25,10 @@
 
 # ScreenShots
 
-![ZonePlaybyFlix](https://user-images.githubusercontent.com/65917790/105441984-6a8da300-5c48-11eb-86b5-ab473d1cb970.png)
+![Login like Netflix](![image](https://github.com/gdcodedev/ZonePlayDefaultCss.io/assets/65917790/1d405c14-b279-4b1e-9397-24e51675c691)
+)
 
-![layoutzoneplay](https://user-images.githubusercontent.com/65917790/105441980-695c7600-5c48-11eb-913d-114ee03eb9c0.png)
+![new-layout](![image](https://github.com/gdcodedev/ZonePlayDefaultCss.io/assets/65917790/b9a9b424-f129-4653-8093-c3464df247de)
+)
 
 
