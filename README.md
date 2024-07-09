@@ -1,13 +1,12 @@
-# Introdução do Teme ZonePlayDefaultCss
-
+# Introdução do Theme StreamNow
 - [x] Costumizando as cores do tema
 - [x] Adicionando novo layout de login
 - [x] Modificando cores dos botões
 - [x] Configurando cores menubar
 
-# Base do projeto no servidor Jellyfinweb
+# Base do projeto no servidor Jellyfin
 
-- [x] 16.4 WebServer
+- [x] v10.9.7 Web
 
 # Código fonte 
 ```
@@ -25,10 +24,15 @@
 
 # ScreenShots
 
-![Login like Netflix](![image](https://github.com/gdcodedev/ZonePlayDefaultCss.io/assets/65917790/1d405c14-b279-4b1e-9397-24e51675c691)
-)
+![LoginLikeNetflix](https://github.com/gdcodedev/ZonePlayDefaultCss.io/assets/65917790/fd97ab05-d2e0-49d9-bf09-6a82dcfea9de)
 
-![new-layout](![image](https://github.com/gdcodedev/ZonePlayDefaultCss.io/assets/65917790/b9a9b424-f129-4653-8093-c3464df247de)
-)
+
+![Dashboard](https://github.com/gdcodedev/ZonePlayDefaultCss.io/assets/65917790/5f2a7123-45e9-4c68-88c7-69b297d09b81)
+
+![Preview](https://github.com/gdcodedev/ZonePlayDefaultCss.io/assets/65917790/c51a63c9-7940-49c5-a853-ec3e41e783a7)
+
+![SubtitleLikeCrunchroll](https://github.com/gdcodedev/ZonePlayDefaultCss.io/assets/65917790/64aae300-cffa-45b1-9b77-27a488cd6ef7)
+
+
 
 
