@@ -18,6 +18,38 @@
     z-index: 0 !important;
   }
 ```
+# Script para mudar o title da página 
+
+```
+   <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            document.title = "Streamnow";
+
+            const observer = new MutationObserver(function(mutations) {
+                mutations.forEach(function(mutation) {
+                    if (mutation.type === 'childList') {
+                        if (document.title !== "Streamnow") {
+                            document.title = "Streamnow";
+                        }
+                    }
+                });
+            });
+
+            observer.observe(document.querySelector('title'), { childList: true });
+
+            Object.defineProperty(document, 'title', {
+                set: function() {
+                    return "Streamnow";
+                },
+                get: function() {
+                    return "Streamnow";
+                }
+            });
+        });
+    </script>
+```
+
+
 # Install
 
 
