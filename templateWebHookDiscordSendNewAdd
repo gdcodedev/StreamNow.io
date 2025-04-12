@@ -1,0 +1,39 @@
+{
+    "content": "{{MentionType}}",
+    "avatar_url": "https://i.imgur.com/tOWB2S8.jpeg",
+    "username": "{{StreamNow}}",
+    "embeds": [
+        {
+            "author": {
+                {{#if_equals ItemType 'Season'}}
+                    "name": "Season Added • {{{SeriesName}}} {{{Name}}}",
+                {{/if_equals}}
+
+                {{#if_equals ItemType 'Episode'}}
+                    "name": "Episode Added • {{{SeriesName}}} S{{SeasonNumber00}}E{{EpisodeNumber00}} ~ {{{Name}}}",
+                {{/if_equals}}
+
+                {{#if_equals ItemType 'Movie'}}
+                    "name": "Movie Added • {{{Name}}}",
+                {{/if_equals}}
+
+                "url": "{{ServerUrl}}/web/index.html#!/details?id={{ItemId}}&serverId={{ServerId}}"
+            },
+
+            "thumbnail": {
+                "url": "{{ServerUrl}}/Items/{{ItemId}}/Images/Primary"
+            },
+
+            "description": "{{#if_exist Overview}}> {{{Overview}}}\n\n{{/if_exist}}{{#if_exist ServerUrl}}[**Watch Now**]({{ServerUrl}}/web/index.html#!/details?id={{ItemId}}&serverId={{ServerId}}){{/if_exist}}",
+
+            "color": "3381759",
+
+            "footer": {
+                "text": "{{StreamNow}}",
+                "icon_url": "https://i.imgur.com/tOWB2S8.jpeg"
+            },
+
+            "timestamp": "{{Timestamp}}"
+        }
+    ]
+}
